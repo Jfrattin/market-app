@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/market-app/static/css/main.073c9b0a.css",
+    "main.js": "/market-app/static/js/main.f1f11c75.js",
+    "static/js/787.9429efbf.chunk.js": "/market-app/static/js/787.9429efbf.chunk.js",
+    "static/media/logo.svg": "/market-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/market-app/index.html",
+    "main.073c9b0a.css.map": "/market-app/static/css/main.073c9b0a.css.map",
+    "main.f1f11c75.js.map": "/market-app/static/js/main.f1f11c75.js.map",
+    "787.9429efbf.chunk.js.map": "/market-app/static/js/787.9429efbf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f1f11c75.js"
+  ]
+}
