@@ -12,7 +12,7 @@ const [products] = value.products
   return (
     <>
     
-    <h1 className='title'>PRODUCTOS</h1>
+    <h1 className='title'>Shoes</h1>
         
         <div className='Products'>
           {products.map((product)=>(

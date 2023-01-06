@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter , Route, Routes} from 'react-router-dom';
+import { BrowserRouter, HashRouter, Route, Routes} from 'react-router-dom';
 
 import Inicio from './inicio/inicio';
 import { Listproducts } from './Products/Listproducts';

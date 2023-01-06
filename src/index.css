@@ -60,6 +60,7 @@ header ul{
   padding: 0;
   margin: 0;
 }
+
 header ul li {
   padding: 0 1rem;
 }
@@ -81,8 +82,8 @@ header .cart box-icon{
 
 header .cart .item_total{
   position: absolute;
-    top: -2rem;
-    right: -1.5rem;
+    top: -1.3rem;
+    right: -1.2rem;
     width: 1.4rem;
     height: 1.4rem;
     border: 8px solid red;
@@ -92,11 +93,32 @@ header .cart .item_total{
  
 }
 
+/*---INIT---*/
+.body{
+  align-items: center;
+  flex-direction: column;
+  padding: 0.5rem;  
+  width: 90%;
+  margin-left: 5%;
+}
+
+
+.inicio-img{
+  padding: 1rem;
+  align-items: center;
+  width: 90%;
+}
+
+.inicio-h2{
+  text-align: center;
+  width: 90%;
+}
 
 /*----PRODUCTS---*/
+
 .title{
   font-size: 2rem;
-  padding:  10rem 0 0 0;
+  padding:  1rem 0 0 0;
   color: rgba(6, 122, 70, 0.704);
 }
 
