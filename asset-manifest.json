@@ -1,16 +1,27 @@
 {
   "files": {
-    "main.css": "/market-app/static/css/main.073c9b0a.css",
-    "main.js": "/market-app/static/js/main.f1f11c75.js",
+    "main.css": "/market-app/static/css/main.a5af2d6d.css",
+    "main.js": "/market-app/static/js/main.646cba41.js",
     "static/js/787.9429efbf.chunk.js": "/market-app/static/js/787.9429efbf.chunk.js",
-    "static/media/logo.svg": "/market-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/img011.jpg": "/market-app/static/media/img011.516d92a4a7c193c21914.jpg",
+    "static/media/img08.jpg": "/market-app/static/media/img08.81e412af83bbd5f7b0be.jpg",
+    "static/media/img07.jpg": "/market-app/static/media/img07.0132f5347c94f1da09f8.jpg",
+    "static/media/img10.jpg": "/market-app/static/media/img10.91365af89817c1fbb043.jpg",
+    "static/media/img02.jpg": "/market-app/static/media/img02.ed4b76a0c62ef811334d.jpg",
+    "static/media/img03.jpg": "/market-app/static/media/img03.475683e4016c25c0eda4.jpg",
+    "static/media/img06.jpg": "/market-app/static/media/img06.9a6f6c09fde40fc6c1fe.jpg",
+    "static/media/img09.jpg": "/market-app/static/media/img09.2672b0a23d6bfee74202.jpg",
+    "static/media/img05.jpg": "/market-app/static/media/img05.b8381f5f7713535eb4ec.jpg",
+    "static/media/Nike.jpg": "/market-app/static/media/Nike.5eedf5f7d339d137435a.jpg",
+    "static/media/img04.jpg": "/market-app/static/media/img04.faae85890c73315ec3fc.jpg",
+    "static/media/img01.jpg": "/market-app/static/media/img01.b982c5d15cea7c86747f.jpg",
     "index.html": "/market-app/index.html",
-    "main.073c9b0a.css.map": "/market-app/static/css/main.073c9b0a.css.map",
-    "main.f1f11c75.js.map": "/market-app/static/js/main.f1f11c75.js.map",
+    "main.a5af2d6d.css.map": "/market-app/static/css/main.a5af2d6d.css.map",
+    "main.646cba41.js.map": "/market-app/static/js/main.646cba41.js.map",
     "787.9429efbf.chunk.js.map": "/market-app/static/js/787.9429efbf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.f1f11c75.js"
+    "static/css/main.a5af2d6d.css",
+    "static/js/main.646cba41.js"
   ]
 }
