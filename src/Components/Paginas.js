@@ -11,6 +11,7 @@ export const Paginas = () => {
     
     <BrowserRouter>
         <Routes>
+            <Route path='/market-app' element={<Inicio/>}></Route>
             <Route path='' element={<Inicio/>}></Route>
             <Route path='/inicio' element={<Inicio/>}></Route>
             <Route path='/products' exact element={<Listproducts/>}></Route>

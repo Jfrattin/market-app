@@ -1,7 +1,7 @@
 import React, { useContext } from 'react';
 import Nike from '../images/Nike.jpg';
 import {DataContext} from '../context/Dataprovider';
-import { Carrier } from '../Carrier/Carrier';
+
 
 
 export const Header = () => {
